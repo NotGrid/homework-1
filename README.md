@@ -44,8 +44,8 @@ THEN I find a concise, descriptive title
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NotGrid/homework-1](https://github.com/NotGrid/homework-1)
+- Live Site URL: [https://notgrid.github.io/homework-1/](https://notgrid.github.io/homework-1/)
 
 ## My process
 
